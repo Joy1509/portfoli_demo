@@ -54,7 +54,7 @@ const Footer = () => {
                 <Github className="h-5 w-5" />
               </a>
               <a
-                href="https://www.linkedin.com/in/JOY-PATEL"
+                href="https://www.linkedin.com/in/joy-patel-16192b2ab/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 rounded-full bg-muted hover:bg-primary hover:text-white transition-smooth"

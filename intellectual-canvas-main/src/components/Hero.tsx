@@ -56,7 +56,7 @@ const Hero = () => {
                 <Github className="h-5 w-5" />
               </a>
               <a
-                href="https://www.linkedin.com/in/JOY-PATEL"
+                href="https://www.linkedin.com/in/joy-patel-16192b2ab/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 rounded-full bg-muted hover:bg-primary hover:text-white transition-smooth shadow-card"
@@ -82,7 +82,7 @@ const Hero = () => {
 
         <div className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-8 animate-fade-in">
           <div className="text-center">
-            <p className="text-4xl font-bold text-primary">10+</p>
+            <p className="text-4xl font-bold text-primary">5+</p>
             <p className="text-muted-foreground mt-2">Projects</p>
           </div>
           <div className="text-center">
