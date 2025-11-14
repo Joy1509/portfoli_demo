@@ -50,7 +50,7 @@ const Navigation = () => {
             aria-label="Home - Joy Patel"
           >
             <img
-              src="/joy.jpg"
+              src="/joy.jpg?v=2"
               alt="Joy Patel"
               className="h-10 w-10 rounded-full object-cover"
             />
